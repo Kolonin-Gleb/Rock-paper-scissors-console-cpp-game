@@ -1,4 +1,4 @@
-# Rock-paper-scissors-console-cpp-game
+# Rock-scissors-paper-console-game
 Консольная игра Камень ножницы бумага написанная на С++
 
 Данный проект содержит документацию на языке моделирования UML.
